@@ -1,0 +1,1 @@
+uses jQuery to manipulate an HTML list. Every time the button is clicked, it appends the sum of the previous two list elements to the list
